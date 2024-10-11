@@ -1,0 +1,6 @@
+total_row_count
+39662310
+total_row_count
+47909944
+total_row_count
+55173631

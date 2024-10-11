@@ -1,0 +1,45 @@
+ total_row_count 
+-----------------
+ 61176240
+(1 row)
+
+ total_row_count 
+-----------------
+ 69204040
+(1 row)
+
+ total_row_count 
+-----------------
+ 70145280
+(1 row)
+
+ total_row_count 
+-----------------
+ 81406208
+(1 row)
+
+ total_row_count 
+-----------------
+ 81136352
+(1 row)
+
+ total_row_count 
+-----------------
+ 76960928
+(1 row)
+
+ total_row_count 
+-----------------
+ 76960928
+(1 row)
+
+ total_row_count 
+-----------------
+ 76960928
+(1 row)
+
+ total_row_count 
+-----------------
+ 76960928
+(1 row)
+
