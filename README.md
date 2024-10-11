@@ -1,5 +1,5 @@
 + # Vodka: A Benchmark Suite for HTAP Database Systems
-  Vodka is a new benchmark suite for benchmarking HTAP database systems, which is extended from the popular TPC-C and TPC-H benchmark. Details about our designs and experiments on three open-source HTAP Systems ([OceanBase](https://www.oceanbase.com/), [TiDB](https://docs.pingcap.com/zh/tidb/stable), [PostgreSQL Streaming Replication](https://www.postgresql.org/)(PostgreSQL-SR)) can be found in the Technique Report：[Vodka: Rethink Benchmarking Philosophy in HTAP Systems](https://github.com/Wind-Gone/Vodka/blob/main/technical_report.pdf) (2024 SIGMOD In submission). We show how to use Vodka as follows.
+  Vodka is a new benchmark suite for benchmarking HTAP database systems, which is extended from the popular TPC-C and TPC-H benchmark. Details about our designs and experiments on three open-source HTAP Systems ([OceanBase](https://www.oceanbase.com/), [TiDB](https://docs.pingcap.com/zh/tidb/stable), [PostgreSQL Streaming Replication](https://www.postgresql.org/)(PostgreSQL-SR)) can be found in the Technique Report：Vodka: Rethink Benchmarking Philosophy in HTAP Systems (2024 SIGMOD In submission). We show how to use Vodka as follows.
 
   Vodka project is forked from benchmarksql v5.0 and distributed under the Apache-2.0 license. 
 
@@ -16,7 +16,7 @@
   2. Clone the project to the client machine and build the project.
   ```bash
   yum install -y git
-  git clone https://github.com/Wind-Gone/Vodka --recursive
+  git clone from https://anonymous.4open.science/r/vodka-8E6B/ --recursive
   cd Vodka
   mvn package
   ```
